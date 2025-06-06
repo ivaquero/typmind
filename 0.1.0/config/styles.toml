@@ -1,0 +1,14 @@
+[fonts.en]
+    title = "Palatino"
+    tab = "Georgia"
+    author = "Times New Roman"
+    footer = "Georgia"
+    math = "Times New Roman"
+    ending = "Palatino"
+
+[fonts.zh]
+    author = "Kaiti SC"
+    title = "STKaiti"
+    tab = "Songti SC"
+    column = "Kaiti SC"
+    math = "Kaiti SC"

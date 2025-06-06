@@ -1,0 +1,12 @@
+"ID",Layer,Node,Support
+Z,0,Spark RDD,RDD instance
+A,1,create RDD,Instance
+B,1,RDD conversion,
+A1,2,distributed file create,
+A2,2,local file create,file manipulation
+A3,2,set file create,Python list
+B1,2,Filter,Filter instance
+B2,2,Map,Map instance
+B3,2,Flatmap,Flatmap instance
+B4,2,groupbykey,groupbykey instance
+B5,2,reducebykey,reducebykey instance
