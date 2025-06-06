@@ -1,4 +1,4 @@
-#import "@local/typhorm:0.1.0": *
+#import "@preview/typhorm:0.1.0": *
 #import "@local/typmind:0.1.0": *
 
 #let info = toml("../0.1.0/config/info.toml").zh
