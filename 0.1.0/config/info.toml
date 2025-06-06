@@ -1,1 +1,5 @@
 [global]
+    lang = "en"
+
+[zh]
+    lang = "zh"
