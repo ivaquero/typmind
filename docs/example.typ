@@ -16,8 +16,13 @@
   *Mindmap*
   #v(30pt)
 
-  #let data0 = csv("mindmap.csv")
-  #let mmp = mmap-2layer(data0, forward: "contain", backward: "support", label-side: center).body
+  #let data = csv("mindmap.csv")
+  #let mmp = mmap-2layer(
+    data,
+    forward: "contain",
+    backward: "support",
+    label-side: center,
+  ).body
   #mmp
 ]
 

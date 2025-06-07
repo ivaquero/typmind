@@ -8,7 +8,16 @@ Import `typmind` from the `@preview` namespace.
 
 ```typst
 #import "@preview/typmind:0.1.0": *
+
+#mmap-2layer(
+  csv("mindmap.csv"),
+  forward: "contain",
+  backward: "support",
+  label-side: center,
+).body
 ```
+
+![csv](https://raw.githubusercontent.com/ivaquero/typmind/refs/heads/main/docs/csv.png)
 
 ![example](https://raw.githubusercontent.com/ivaquero/typmind/refs/heads/main/docs/mindmap.png)
 
