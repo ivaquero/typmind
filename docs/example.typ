@@ -26,57 +26,83 @@
   #mmp
 ]
 
-#idx-tab-body-box2(
-  [idx],
-  [tab1],
-  [#lorem(10)],
-  [tab2],
-  [#lorem(50)],
-)
+// #with-index-tab-box2(
+//   [idx],
+//   [tab1],
+//   [
+//     #lorem(10)
+//   ],
+//   [tab2],
+//   [
+//     #lorem(50)
+//   ],
+// )
 
-#idx-tab-body-box(
-  [idx],
-  [tab],
-  [#lorem(20)],
-)
+// #with-index-tab-box(
+//   [idx],
+//   [tab],
+//   [
+//     #lorem(20)
+//   ],
+// )
 
-#idx-body-box2(
-  [idx1],
-  [#lorem(50)],
-  [idx2],
-  [#lorem(30)],
-)
+// #with-index-box2(
+//   [idx1],
+//   [
+//     #lorem(50)
+//   ],
+//   [idx2],
+//   [
+//     #lorem(30)
+//   ],
+// )
 
-#idx-body-box(
-  [idx],
-  [#lorem(25)],
-)
+// #with-index-box(
+//   [idx],
+//   [
+//     #lorem(25)
+//   ],
+// )
 
-#idx-tab4-box(
-  [idx],
-  [tab1],
-  [tab2],
-  [tab3],
-  [tab4],
-)
+// #with-index-tab4-box(
+//   [idx],
+//   [tab1],
+//   [tab2],
+//   [tab3],
+//   [tab4],
+// )
 
-#idx-body-mat23-box(
-  [idx],
-  [#lorem(25)],
-  [upper],
-  [60],
-  [#lorem(5)],
-  [lower],
-  [30],
-  [#lorem(5)],
-)
+// #with-index-mat32-box(
+//   [idx],
+//   [
+//     #lorem(25)
+//   ],
+//   [upper],
+//   [60],
+//   [
+//     #lorem(5)
+//   ],
+//   [lower],
+//   [30],
+//   [
+//     #lorem(5)
+//   ],
+// )
 
-#body-mat31-box(
-  [#lorem(25)],
-  [row1],
-  [#lorem(15)],
-  [row2],
-  [#lorem(5)],
-  [row3],
-  [#lorem(5)],
-)
+// // #with-mat31-box(
+// //   [
+// //     #lorem(25)
+// //   ],
+// //   [row1],
+// //   [
+// //     #lorem(15)
+// //   ],
+// //   [row2],
+// //   [
+// //     #lorem(5)
+// //   ],
+// //   [row3],
+// //   [
+// //     #lorem(5)
+// //   ],
+// // )
