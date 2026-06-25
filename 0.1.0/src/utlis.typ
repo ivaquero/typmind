@@ -4,10 +4,12 @@
   label,
   size: .8em,
   font: "Songti SC",
+  ..options,
 ) = text(
   label,
   size: size,
   font: font,
+  ..options,
 )
 
 #let find-col-idx(data, col-name) = {
