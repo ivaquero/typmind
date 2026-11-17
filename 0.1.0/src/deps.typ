@@ -1,4 +1,4 @@
-#import "@preview/fletcher:0.5.8" as fletcher: diagram, edge, node, shapes
+#import "@preview/fletcher:0.6.0" as fletcher: diagram, edge, node, shapes
 #import "@preview/cetz:0.4.0": draw, vector
 
 #let default-info = toml("../config/info.toml").global
